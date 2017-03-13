@@ -14,12 +14,21 @@ TOPICS from the Book
 * Chapter 10: Unsupervised Methods
 
 
+## Data Science
+[Jake VanderPlas PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+
+## Deep Learning
+[Animation for Image Kernels](http://setosa.io/ev/image-kernels/)
+
 [Udacity-Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
 
-
-
-[Animation for Image Kernels](http://setosa.io/ev/image-kernels/)
 
 [Animation for PCA](http://setosa.io/ev/principal-component-analysis/)
 
 [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+
+
+
+## NLP
+https://github.com/RaRe-Technologies/gensim/tree/develop/docs/notebooks
