@@ -19,5 +19,7 @@ TOPICS from the Book
 
 
 [Animation for Image Kernels](http://setosa.io/ev/image-kernels/)
+
 [Animation for PCA](http://setosa.io/ev/principal-component-analysis/)
+
 [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
