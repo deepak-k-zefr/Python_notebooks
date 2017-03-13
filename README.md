@@ -15,3 +15,9 @@ TOPICS from the Book
 
 
 [Udacity-Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
+
+
+
+[Animation for Image Kernels](http://setosa.io/ev/image-kernels/)
+[Animation for PCA](http://setosa.io/ev/principal-component-analysis/)
+[Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
