@@ -2,7 +2,7 @@
 
 [StatLearning: Statistical Learning - Chapters 2-10 of the course by Trevor Hastie and Rob Tibshirani.](http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html)
 
-TOPICS
+TOPICS from the Book
 * Chapter 2: Basic Operations
 * Chapter 3: Linear Regression
 * Chapter 4: Classification
@@ -12,3 +12,6 @@ TOPICS
 * Chapter 8: Decision Trees
 * Chapter 9: Support Vector Machines
 * Chapter 10: Unsupervised Methods
+
+
+[Udacity-Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
