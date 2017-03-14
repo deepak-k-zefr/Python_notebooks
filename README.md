@@ -12,21 +12,25 @@ TOPICS from the Book:
  Chapter 9: Support Vector Machines,
  Chapter 10: Unsupervised Methods,
 
+## Algorithms
+[Algorithms and data structures in Python](https://github.com/gudnm/codekatas/blob/master/codekatas.ipynb)
+
 ## OOP
 [Python OOP Links from Reddit](https://www.reddit.com/r/Python/comments/226ahl/some_links_about_python_oop/)
+
 ## Data Science
 [Jake VanderPlas PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## General ML
+[Animation for PCA](http://setosa.io/ev/principal-component-analysis/)
+
+[Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 ## Deep Learning
 [Animation for Image Kernels](http://setosa.io/ev/image-kernels/)
 
 [Udacity-Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
 
-[Animation for PCA](http://setosa.io/ev/principal-component-analysis/)
-
-[Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 ## NLP
 [Everythong Gensim](https://github.com/RaRe-Technologies/gensim/tree/develop/docs/notebooks)
