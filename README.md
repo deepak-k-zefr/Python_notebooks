@@ -2,16 +2,16 @@
 
 * [StatLearning: Statistical Learning - Chapters 2-10 of the course by Trevor Hastie and Rob Tibshirani.](http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html)
 
-TOPICS from the Book: 
-  2: Basic Operations,
-  3: Linear Regression,
-  4: Classification,
-  5: Cross-Validation and Bootstrap,
-  6: Feature Selection,
-  7: Nonlinear Models,
-  8: Decision Trees,
-  9: Support Vector Machines,
- 10: Unsupervised Methods,
+
+  Basic Operations,
+  Linear Regression,
+  Classification,
+  Cross-Validation and Bootstrap,
+  Feature Selection,
+  Nonlinear Models,
+  Decision Trees,
+  Support Vector Machines,
+  Unsupervised Methods,
 
 ## Algorithms
 * [Algorithms and data structures in Python](https://github.com/gudnm/codekatas/blob/master/codekatas.ipynb)
