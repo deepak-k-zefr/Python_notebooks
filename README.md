@@ -1,6 +1,7 @@
 ## Python notebooks(with a focus on AI)
 
 [StatLearning: Statistical Learning - Chapters 2-10 of the course by Trevor Hastie and Rob Tibshirani.](http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html)
+
 TOPICS from the Book: 
   2: Basic Operations,
   3: Linear Regression,
