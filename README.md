@@ -30,4 +30,8 @@ TOPICS from the Book:
 
 
 ## NLP
-https://github.com/RaRe-Technologies/gensim/tree/develop/docs/notebooks
+[Everythong Gensim](https://github.com/RaRe-Technologies/gensim/tree/develop/docs/notebooks)
+
+
+## Miscellaneous
+[Web Scraping Indeed for Key Data Science Job Skills¶](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
