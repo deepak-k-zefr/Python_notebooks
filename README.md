@@ -25,6 +25,7 @@
 ## Deep Learning
 * [Animation for Image Kernels](http://setosa.io/ev/image-kernels/)
 * [Udacity-Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
+* [fastai Repo](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
 
 
 ## NLP
