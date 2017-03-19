@@ -1,16 +1,7 @@
 ## Python notebooks(with a focus on AI)
 
 * [StatLearning: Statistical Learning - Chapters 2-10 of the course by Trevor Hastie and Rob Tibshirani.](http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html)
-  Basic Operations,
-  Linear Regression,
-  Classification,
-  Cross-Validation and Bootstrap,
-  Feature Selection,
-  Nonlinear Models,
-  Decision Trees,
-  Support Vector Machines,
-  Unsupervised Methods,
-
+  
 ## Algorithms
 * [Udemy Course: Python for Algorithms, Data Structures, and Interviews!](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 * [Algorithms practise questions/solutions in Python- codekatas](https://github.com/gudnm/codekatas/blob/master/codekatas.ipynb)
