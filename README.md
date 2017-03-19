@@ -25,6 +25,7 @@
 ## Data Science
 * [Jake VanderPlas PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/index.html)
+* [Official content for Harvard CS109](https://github.com/cs109/content)
 
 ## General ML
 * [Animation for PCA](http://setosa.io/ev/principal-component-analysis/)
