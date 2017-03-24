@@ -6,7 +6,7 @@
 * [Udemy Course: Python for Algorithms, Data Structures, and Interviews!](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 * [Algorithms practise questions/solutions in Python- codekatas](https://github.com/gudnm/codekatas/blob/master/codekatas.ipynb)
 * [Python and Algorithms and Data Structures](https://github.com/bt3gl/Python-and-Algorithms-and-Data-Structures)
-* ["Algorithms" library in Python](https://github.com/nryoung/algorithms)
+* ["Algorithms" library(A library of algorithms and data structures implemented in Python.) in Python](https://github.com/nryoung/algorithms)
 * [Top 10 algorithms in Interview Questions- A good resource](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
 
