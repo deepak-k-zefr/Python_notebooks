@@ -13,10 +13,16 @@
 ## OOP
 * [Python OOP Links from Reddit](https://www.reddit.com/r/Python/comments/226ahl/some_links_about_python_oop/)
 
-## Data Science
-* [Jake VanderPlas PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+## Statistics
+* [Statistics for Hackers - Talk by Jake Vanderplas](https://github.com/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
 * [Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/index.html)
-* [Official content for Harvard CS109](https://github.com/cs109/content)
+* [Jupyter/IPython Notebooks for Springer book Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
+* [Bayesian Methods for Hackers(12000 stars)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+## Data Science
+* [Jake VanderPlas Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Official content for Harvard Data Science Course-CS109](https://github.com/cs109/content)
 
 ## General ML
 * [Animation for PCA](http://setosa.io/ev/principal-component-analysis/)
