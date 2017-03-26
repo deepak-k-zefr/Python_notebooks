@@ -36,9 +36,13 @@
 
 ## NLP
 * [Everythong Gensim](https://github.com/RaRe-Technologies/gensim/tree/develop/docs/notebooks)
+* [Tutorial: Natural Language Processing in Python](https://github.com/bonzanini/nlp-tutorial.git)
+* [Mastering Social Media Mining with Python](https://github.com/bonzanini/Book-SocialMediaMiningPython)
+* [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/DeepLearningNLP_Py)
+* [Colah-Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
 
 ## Miscellaneous
 * [Python for Developers](http://ricardoduarte.github.io/python-for-developers/)
-* [Web Scraping Indeed for Key Data Science Job Skills¶](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
+* [Web Scraping Indeed for Key Data Science Job Skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
 * [Kalman-and-Bayesian-Filters-in-Python](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
