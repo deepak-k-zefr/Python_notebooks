@@ -9,6 +9,10 @@
 * ["Algorithms" (A library of algorithms and data structures implemented in Python.](https://github.com/nryoung/algorithms)
 * [Top 10 algorithms in Interview Questions- A good resource](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
+## NUMPY
+* [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
+* [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+
 
 ## OOP
 * [Python OOP Links from Reddit](https://www.reddit.com/r/Python/comments/226ahl/some_links_about_python_oop/)
