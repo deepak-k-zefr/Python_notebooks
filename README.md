@@ -42,7 +42,7 @@
 
 
 ## NLP
-* [Everythong Gensim](https://github.com/RaRe-Technologies/gensim/tree/develop/docs/notebooks)
+* [Gensim(official)](https://github.com/RaRe-Technologies/gensim/tree/develop/docs/notebooks)
 * [Tutorial: Natural Language Processing in Python](https://github.com/bonzanini/nlp-tutorial.git)
 * [Mastering Social Media Mining with Python](https://github.com/bonzanini/Book-SocialMediaMiningPython)
 * [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/DeepLearningNLP_Py)
