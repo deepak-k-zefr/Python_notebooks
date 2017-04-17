@@ -34,6 +34,8 @@
 * [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 ## Deep Learning
+* [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+* [Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws#gs.9J2MUek)
 * [Animation for Image Kernels](http://setosa.io/ev/image-kernels/)
 * [Udacity-Repo for the Deep Learning Nanodegree Foundations program](https://github.com/udacity/deep-learning)
 * [fastai Repo](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
