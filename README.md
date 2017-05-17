@@ -50,6 +50,11 @@
 * [Colah-Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
 
+## Keras
+* [Keras comprehensive tutorial- notebooks](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
+* [Keras official](https://github.com/fchollet/keras/tree/master/examples)
+
+
 ## Miscellaneous
 * [Python for Developers](http://ricardoduarte.github.io/python-for-developers/)
 * [Web Scraping Indeed for Key Data Science Job Skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
